@@ -1,3 +1,5 @@
+package src;
+
 public class ApprovalRouter {
     // Вариант 7: порог финансового согласования = 400 000 руб.
     private static final long FINANCE_THRESHOLD = 400_000L;

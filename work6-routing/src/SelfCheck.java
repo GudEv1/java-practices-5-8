@@ -1,3 +1,4 @@
+package src;
 public class SelfCheck {
     public static void run() {
         System.out.println("SelfCheck: проект собран корректно.");
